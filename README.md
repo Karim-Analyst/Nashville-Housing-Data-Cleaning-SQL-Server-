@@ -26,11 +26,17 @@ Removed unnecessary columns such as `propertyAddress`, `TaxDistrict`, and `Owner
 ## Folder / File Structure
 
 Nashville-Housing-Data-Cleaning/
+
 │
+
 ├── README.md <-- This file
+
 ├── sql/
+
 │ └── data_cleaning.sql <-- Cleaned SQL script
+
 ├── data/
+
 │ └── nashville_raw_sample.csv <-- Optional small sample of raw dataset
 
 
