@@ -56,13 +56,6 @@ Nashville-Housing-Data-Cleaning/
 ## Result
 The dataset is now clean, structured, and ready for analysis, visualization, or reporting tasks.
 
-## Notes
-- A small sample of the raw dataset is included in the `data/` folder for reference.  
-- The SQL script in `sql/data_cleaning.sql` contains all steps needed to reproduce the cleaning process.
-
----
-This project highlights practical data cleaning and normalization skills in SQL, suitable for junior data analyst roles.
-
 
 
 
